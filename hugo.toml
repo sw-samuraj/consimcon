@@ -1,0 +1,4 @@
+baseURL = 'https://consimcon.cz'
+languageCode = 'en-us'
+title = 'Czech Consim Con'
+theme = 'hugo-blog-awesome'
