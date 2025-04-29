@@ -2,11 +2,11 @@ title = "Czech Consim Con"
 baseURL = "https://consimcon.cz"
 
 # This is what goes in <html lang="">
-# languageCode = "en-us"
+# languageCode = "en"
 languageCode = "cs"
 
 # This defines how dates are formatted
-# defaultContentLanguage = "en-gb"
+# defaultContentLanguage = "en"
 defaultContentLanguage = "cs"
 
 # Enable emojis globally
@@ -16,7 +16,29 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
 # traditional way: theme component resides in directory 'themes'
 theme = "hugo-blog-awesome"
 
-############################## Italian language ################################
+[services]
+# To enable Google Analytics 4 (gtag.js) provide G-MEASUREMENT_ID below.
+# To disable Google Analytics, simply leave the field empty or remove the next two lines
+#   [services.googleAnalytics]
+#     id = '' # G-MEASUREMENT_ID
+
+# To enable Disqus comments, provide Disqus Shortname below.
+# To disable Disqus comments, simply leave the field empty or remove the next two lines
+#   [services.disqus]
+#     shortname = ''
+
+# set markup.highlight.noClasses=false to enable code highlight
+[markup]
+  [markup.highlight]
+    noClasses = false
+  [markup.goldmark.renderer]
+    unsafe = true
+	[markup.tableOfContents]
+		startLevel = 2 # ToC starts from H2
+		endLevel = 4 # ToC ends at H4
+		ordered = false # generates <ul> instead of <ol>
+
+############################## Czech language ################################
 [Languages.cs]
   languageName = "Česky"
   languageCode = "cs"
@@ -27,29 +49,29 @@ theme = "hugo-blog-awesome"
     # The page reference (pageRef) is useful for menu highlighting
     # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
     pageRef="/"
-    name = "Úvod"
+    name = 'Úvod'
     url = '/'
     weight = 10
   [[Languages.cs.menu.main]]
-    pageRef="posts"
-    name = 'Ročníky'
-    url = '/posts/'
+    pageRef = "posts"
+    name = "Archiv"
+    url = "/archiv/"
     weight = 20
   [[Languages.cs.menu.main]]
-    pageRef="about"
+    pageRef="registrace"
     name = "Registrace"
-    url = '/about/'
+    url = "/registrace"
     weight = 30
 
 [Languages.cs.params]
-  sitename = "Czech Consim Con"
+  sitename = "Czech Consim Con 2025"
   defaultColor = "dark" # set color mode: dark, light, auto
   # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
   # the default value is set to 'auto'.
   # You can take a look at layouts/index.html for more information.
-  description = "Czech Consim Con je česká konference pro příznivce historických a válečných deskových her."
+  description = "Nějaký popis C3."
   mainSections = ['posts']
-  toc = true # set to false to disable table of contents 'globally'
+  toc = false # set to false to disable table of contents 'globally'
   tocOpen = false # set to true to open table of contents by default
   goToTop = true # set to false to disable 'go to top' button
   additionalScripts = ['js/custom.js', 'js/custom-2.js']
@@ -67,9 +89,9 @@ theme = "hugo-blog-awesome"
 [Languages.cs.params.author]
   avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-  intro = "Czech Consim Con"
-  name = "Ereboro"
-  description = "Un tema Hugo veloce e minimalista con supporto per la modalità chiara e scura, per la gestione di un sito o di un blog personale."
+  intro = "Czech Consim Con 2025"
+  name = "Czech Consim Con"
+  description = "Ve dnech 17.-19. října 2025 se odehraje druhý ročník konference historických a válečných her."
 
 # Allow to override webmanifest options
 [Languages.cs.params.webmanifest]
@@ -81,33 +103,33 @@ theme = "hugo-blog-awesome"
   display = "standalone"
 
 ############################## English language ################################
-[Languages.en-gb]
+[Languages.en]
   languageName = "English"
   languageCode = "en"
   contentDir = "content/en"
   weight = 2
 
-  [Languages.en-gb.menu]
-  [[Languages.en-gb.menu.main]]
+  [Languages.en.menu]
+  [[Languages.en.menu.main]]
     # The page reference (pageRef) is useful for menu highlighting
     # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
-    pageRef="/"
-    name = 'Home'
-    url = '/'
+    pageRef = "/"
+    name = "Home"
+    url = "/"
     weight = 10
-  [[Languages.en-gb.menu.main]]
-    pageRef="posts"
-    name = 'Years'
-    url = '/posts/'
+  [[Languages.en.menu.main]]
+    pageRef = "posts"
+    name = "Archive"
+    url = "/posts/"
     weight = 20
-  [[Languages.en-gb.menu.main]]
-    pageRef="about"
-    name = 'Registration'
-    url = '/about/'
+  [[Languages.en.menu.main]]
+    pageRef = "about"
+    name = "Registration"
+    url = "/about/"
     weight = 30
 
-[Languages.en-gb.params]
-  sitename = "Czech Consim Con"
+[Languages.en.params]
+  sitename = "Awesome hugo blog"
   defaultColor = "dark" # set color mode: dark, light, auto
   # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
   # the default value is set to 'auto'.
@@ -129,18 +151,28 @@ theme = "hugo-blog-awesome"
   # full - includes full blog post in the RSS feed. Generated using Hugo .Content .
   # By default (or if nothing is specified), summary is used.
 
-[Languages.en-gb.params.author]
+[Languages.en.params.author]
   avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-  intro = "Czech Consim Con"
-  name = "Ereboro"
+  intro = "Awesome hugo blog"
+  name = "Sidharth R"
   description = "A fast, minimalistic Hugo theme with light and dark mode support, for running a personal site or blog."
 
 # Allow to override webmanifest options
-[Languages.en-gb.params.webmanifest]
+[Languages.en.params.webmanifest]
   name = "sitename" # will use "params.sitename" or "title" by default
   short_name = "sitename" # same as name
   start_url = "/" # will use homepage url by default
   theme_color = "#434648" # default is "#434648" (base color of text). Also will override html `<meta name="theme-color" />`
   background_color = "#fff" # by default depend on "params.defaultColor" for "light" or "auto" will be set to "#fff" for dark will be "#131418" (color of dark mode background)
   display = "standalone"
+
+###################################################################
+
+# Allow to override `browserconfig.xml` params (configuration for windows embedded browsers)
+[params.browserconfig]
+  TileColor = "#2d89ef" # default windows 10 blue tile color
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/sw-samuraj/consimcon"
