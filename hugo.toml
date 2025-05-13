@@ -53,15 +53,20 @@ theme = "hugo-blog-awesome"
     url = '/'
     weight = 10
   [[Languages.cs.menu.main]]
-    pageRef = "posts"
-    name = "Archiv"
-    url = "/archiv/"
+    pageRef="informace"
+    name = "Informace"
+    url = "/informace"
     weight = 20
   [[Languages.cs.menu.main]]
     pageRef="registrace"
     name = "Registrace"
     url = "/registrace"
     weight = 30
+  [[Languages.cs.menu.main]]
+    pageRef = "posts"
+    name = "Archiv"
+    url = "/archiv/"
+    weight = 40
 
 [Languages.cs.params]
   sitename = "Czech Consim Con 2025"

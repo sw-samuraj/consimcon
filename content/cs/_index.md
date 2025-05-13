@@ -1,4 +1,4 @@
 ---
-title: "Home"
-author : "Hugo Authors"
+title: "Úvod"
+author : "Czech Consim Con"
 ---

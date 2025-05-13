@@ -3,6 +3,6 @@ title = "Registrace"
 description = """Registrace na Czech Consim Con 2025"""
 +++
 
-## Registrace na _Czech Consim Con 2025_
+## _Czech Consim Con 2025_
 
-TBD
+Registrace na C3 budou spuštěny 1. června 2025.
