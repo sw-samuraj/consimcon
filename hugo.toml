@@ -63,18 +63,18 @@ theme = "hugo-blog-awesome"
     url = "/registrace"
     weight = 30
   [[Languages.cs.menu.main]]
-    pageRef = "posts"
+    pageRef = "archiv"
     name = "Archiv"
-    url = "/archiv/"
+    url = "/archiv"
     weight = 40
 
 [Languages.cs.params]
-  sitename = "Czech Consim Con 2025"
+  sitename = "Czech Consim Con"
   defaultColor = "dark" # set color mode: dark, light, auto
   # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
   # the default value is set to 'auto'.
   # You can take a look at layouts/index.html for more information.
-  description = "Nějaký popis C3."
+  description = "Česká konference historických a válečných her"
   mainSections = ['posts']
   toc = false # set to false to disable table of contents 'globally'
   tocOpen = false # set to true to open table of contents by default
@@ -94,7 +94,7 @@ theme = "hugo-blog-awesome"
 [Languages.cs.params.author]
   avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-  intro = "Czech Consim Con 2025"
+  intro = "Czech Consim Con"
   name = "Czech Consim Con"
   description = "Ve dnech 17.-19. října 2025 se odehraje druhý ročník konference historických a válečných her."
 
@@ -123,23 +123,28 @@ theme = "hugo-blog-awesome"
     url = "/"
     weight = 10
   [[Languages.en.menu.main]]
-    pageRef = "posts"
-    name = "Archive"
-    url = "/posts/"
+    pageRef = "information"
+    name = "Information"
+    url = "/information"
     weight = 20
   [[Languages.en.menu.main]]
-    pageRef = "about"
+    pageRef = "registration"
     name = "Registration"
-    url = "/about/"
+    url = "/registration"
     weight = 30
+  [[Languages.en.menu.main]]
+    pageRef = "archive"
+    name = "Archive"
+    url = "/archive"
+    weight = 40
 
 [Languages.en.params]
-  sitename = "Awesome hugo blog"
+  sitename = "Czech Consim Con"
   defaultColor = "dark" # set color mode: dark, light, auto
   # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
   # the default value is set to 'auto'.
   # You can take a look at layouts/index.html for more information.
-  description = "Minimal Hugo blog theme with light and dark mode support"
+  description = "Czech conference of historical and war games"
   mainSections = ['posts']
   toc = true # set to false to disable table of contents 'globally'
   tocOpen = false # set to true to open table of contents by default
@@ -159,9 +164,9 @@ theme = "hugo-blog-awesome"
 [Languages.en.params.author]
   avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-  intro = "Awesome hugo blog"
-  name = "Sidharth R"
-  description = "A fast, minimalistic Hugo theme with light and dark mode support, for running a personal site or blog."
+  intro = "Czech Consim Con"
+  name = "Czech Consim Con"
+  description = "The second annual conference of historical and war games will take place on October 17-19, 2025."
 
 # Allow to override webmanifest options
 [Languages.en.params.webmanifest]

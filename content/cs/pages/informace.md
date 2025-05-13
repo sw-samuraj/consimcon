@@ -12,13 +12,13 @@ description = """Informace o Czech Consim Con 2025"""
 
 ### Místo konání
 
-Kulturní centrum **Peškovka**, 
-Elišky Peškové 333/7,
-Smíchov - Praha 5
+* Kulturní centrum **Peškovka**, 
+  Elišky Peškové 333/7,
+  Smíchov - Praha 5
+* https://maps.app.goo.gl/c1FuPaTr4JWczgee7
 
 🚧  🚧  🚧  TBD foto Peškovky  🚧  🚧  🚧
 
-https://maps.app.goo.gl/c1FuPaTr4JWczgee7
 
 ## Program
 
@@ -39,12 +39,12 @@ https://maps.app.goo.gl/c1FuPaTr4JWczgee7
 
 ## Vstupné
 
-**900 Kč** na celý víkend.
+* **900 Kč** na celý víkend.
 
 ## Kapacita
 
-**60** účastníků.
+* **60** účastníků.
 
 ## Ubytování
 
-Ubytování si účastníci zajišťují sami. Po zaplacené registraci dostane účastník přístup na discord C3, kde se půjde dále domluvit, sdílet informace, apod.
+* Ubytování si účastníci zajišťují sami. Po zaplacené registraci dostane účastník přístup na discord C3, kde se půjde dále domluvit, sdílet informace, apod.
