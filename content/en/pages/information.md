@@ -1,7 +1,8 @@
-+++
-title = "Information"
-description = """Information about Czech Consim Con 2025"""
-+++
+---
+title: "Information"
+description: "Information about Czech Consim Con 2025"
+image: "/img/C3-logo.png"
+---
 
 # _Czech Consim Con 2025_
 
