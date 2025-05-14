@@ -17,9 +17,9 @@ toc: true
 * Kulturní centrum **Peškovka**, 
   Elišky Peškové 333/7,
   Smíchov - Praha 5
-* https://maps.app.goo.gl/c1FuPaTr4JWczgee7
+* [Google Maps](https://maps.app.goo.gl/c1FuPaTr4JWczgee7)
 
-🚧  🚧  🚧  TBD foto Peškovky  🚧  🚧  🚧
+![Peškovka](/img/Peskovka.jpg)
 
 
 ## Program
