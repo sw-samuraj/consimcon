@@ -2,16 +2,17 @@
 title: "Informace"
 description: "Informace o Czech Consim Con 2025"
 image: "/img/C3-logo.png"
+toc: true
 ---
 
-## _Czech Consim Con 2025_
+# _Czech Consim Con 2025_
 
-### Datum konání
+## Datum konání
 
 * **17.-19. září 2025**
 * Každý den 10:00-21:00
 
-### Místo konání
+## Místo konání
 
 * Kulturní centrum **Peškovka**, 
   Elišky Peškové 333/7,

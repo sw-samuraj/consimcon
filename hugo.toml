@@ -49,8 +49,8 @@ theme = "hugo-blog-awesome"
     # The page reference (pageRef) is useful for menu highlighting
     # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
     pageRef="/"
-    name = 'Úvod'
-    url = '/'
+    name = "C3"
+    url = "/"
     weight = 10
   [[Languages.cs.menu.main]]
     pageRef="informace"
@@ -96,7 +96,7 @@ theme = "hugo-blog-awesome"
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Czech Consim Con"
   name = "Czech Consim Con"
-  description = "Ve dnech 17.-19. října 2025 se odehraje druhý ročník konference historických a válečných her."
+  description = "Czech Consim Con (C3) je konference historických a válečných her. Druhý ročník proběhne ve dnech 17.-19. října 2025."
 
 # Allow to override webmanifest options
 [Languages.cs.params.webmanifest]
@@ -119,7 +119,7 @@ theme = "hugo-blog-awesome"
     # The page reference (pageRef) is useful for menu highlighting
     # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
     pageRef = "/"
-    name = "Home"
+    name = "C3"
     url = "/"
     weight = 10
   [[Languages.en.menu.main]]
@@ -146,7 +146,7 @@ theme = "hugo-blog-awesome"
   # You can take a look at layouts/index.html for more information.
   description = "Czech conference of historical and war games"
   mainSections = ['posts']
-  toc = true # set to false to disable table of contents 'globally'
+  toc = false # set to false to disable table of contents 'globally'
   tocOpen = false # set to true to open table of contents by default
   goToTop = true # set to false to disable 'go to top' button
   additionalScripts = ['js/custom.js', 'js/custom-2.js']
@@ -166,7 +166,7 @@ theme = "hugo-blog-awesome"
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Czech Consim Con"
   name = "Czech Consim Con"
-  description = "The second annual conference of historical and war games will take place on October 17-19, 2025."
+  description = "Czech Consim Con (C3) is a conference of historical and war games. The second year will take place on October 17-19, 2025."
 
 # Allow to override webmanifest options
 [Languages.en.params.webmanifest]
