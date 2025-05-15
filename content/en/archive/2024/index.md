@@ -5,6 +5,6 @@ description: "Czech Consim Con 2024"
 image: "/img/C3-logo.png"
 ---
 
-TBD
+🚧  🚧  🚧  TBD  🚧  🚧  🚧
 
 ![Panel discussion](/img/C3-2024.jpg)
