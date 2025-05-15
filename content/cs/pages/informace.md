@@ -14,7 +14,7 @@ toc: true
 
 ## Místo konání
 
-* Kulturní centrum **Peškovka**, 
+* **Tvůrčí dům Elisky Peškové** (Peškovka),
   Elišky Peškové 333/7,
   Smíchov - Praha 5
 * [Google Maps](https://maps.app.goo.gl/c1FuPaTr4JWczgee7)

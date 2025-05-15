@@ -14,7 +14,7 @@ toc: true
 
 ## Venue
 
-* **Peškovka** Cultural Center, 
+* **Creative Center of Eliška Pešková** (Peškovka),
   Elišky Peškové 333/7,
   Smíchov - Praha 5
 * [Google Maps](https://maps.app.goo.gl/c1FuPaTr4JWczgee7)
