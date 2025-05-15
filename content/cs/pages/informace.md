@@ -9,7 +9,7 @@ toc: true
 
 ## Datum konání
 
-* **17.-19. září 2025**
+* **17.-19. října 2025**
 * Každý den 10:00-21:00
 
 ## Místo konání

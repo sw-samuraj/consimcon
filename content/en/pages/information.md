@@ -9,7 +9,7 @@ toc: true
 
 ## Date
 
-* **September 17-19, 2025**
+* **October 17-19, 2025**
 * Every day 10:00-21:00
 
 ## Venue
