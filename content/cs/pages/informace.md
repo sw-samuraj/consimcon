@@ -17,7 +17,7 @@ toc: true
 * **Tvůrčí dům Elisky Peškové** (Peškovka),
   Elišky Peškové 333/7,
   Smíchov - Praha 5
-* [Google Maps](https://maps.app.goo.gl/c1FuPaTr4JWczgee7)
+* [Google Maps](//maps.app.goo.gl/c1FuPaTr4JWczgee7)
 
 ![Peškovka](/img/Peskovka.jpg)
 
@@ -36,8 +36,8 @@ toc: true
 
 ## Hosté
 
-* **Mitchell Land** (GMT), [BGG profil](https://boardgamegeek.com/boardgamedesigner/36545/mitchell-land)
-* **Ralph Shelton** (GMT), [BGG profil](https://boardgamegeek.com/boardgamedesigner/103902/ralph-shelton)
+* **Mitchell Land** (GMT), [BGG profil](//boardgamegeek.com/boardgamedesigner/36545/mitchell-land)
+* **Ralph Shelton** (GMT), [BGG profil](//boardgamegeek.com/boardgamedesigner/103902/ralph-shelton)
 
 ## Vstupné
 
