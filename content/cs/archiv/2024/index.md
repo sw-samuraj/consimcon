@@ -64,3 +64,15 @@ toc: true
            alt="Volné hraní"
            caption="Volné hraní"
 >}}
+
+{{< figure src="/img/2024/Volko-Blackbeard.jpg"
+           link="/img/2024/Volko-Blackbeard.jpg"
+           alt="Volko playtestuje Hunt for Blackbeard"
+           caption=" Volko playtestuje Hunt for Blackbeard"
+>}}
+
+{{< figure src="/img/2024/Coast-Watchers.jpg"
+           link="/img/2024/Coast-Watchers.jpg"
+           alt="Playtesting Coast Watchers"
+           caption="Playtesting Coast Watchers"
+>}}
