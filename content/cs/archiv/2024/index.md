@@ -34,7 +34,7 @@ toc: true
   * [Coast Watchers](//boardgamegeek.com/boardgame/416777/coast-watchers-allied-field-intelligence-in-the-so) (Volko Ruhnke)
   * [Hunt for Blackbeard](//boardgamegeek.com/boardgame/263479/hunt-for-blackbeard) (Volko Ruhnke)
   * [Drachen](//www.gmtgames.com/p-1162-drachen.aspx) (Volko Ruhnke)
-  * Floris (Snodaert)
+  * Floris (Gerard Mulder)
 * Přednášky:
   * Panelová diskuze: Volko Ruhnke, Mark Simonitch, Jaro Andruszkiewicz
   * Poznávání historie prostřednictvím deskových her, Petr Mojžíš
