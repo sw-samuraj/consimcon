@@ -76,3 +76,9 @@ toc: true
            alt="Playtesting of Coast Watchers"
            caption="Playtesting of Coast Watchers"
 >}}
+
+{{< figure src="/img/2024/Drachen.jpg"
+           link="/img/2024/Drachen.jpg"
+           alt="Playtesting of Drachen"
+           caption="Playtesting of Drachen"
+>}}
