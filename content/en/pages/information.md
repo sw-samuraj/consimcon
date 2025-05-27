@@ -25,7 +25,9 @@ toc: true
 ## Program
 
 * Free play of historical and war games.
-* Playtesting (TBD, but definitely **GMT Žižka**, etc.).
+* Playtesting (to be clarified later):
+  * [Žižka](//boardgamegeek.com/boardgame/399887/zizka-reformation-and-crusade-in-hussite-bohemia-1) (Petr Mojžíš)
+  * _Next War: Flashpoints_ (Mitchell Land)
 * Lectures/panel discussion with guests (TBD).
 
 **Rules for free play:**

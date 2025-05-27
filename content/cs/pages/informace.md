@@ -25,7 +25,9 @@ toc: true
 ## Program
 
 * Volné hraní historických a válečných her.
-* Playtesting (bude upřesněno, ale určitě **GMT Žižka**, ad.).
+* Playtesting (bude dále upřesněno):
+  * [Žižka](//boardgamegeek.com/boardgame/399887/zizka-reformation-and-crusade-in-hussite-bohemia-1) (Petr Mojžíš)
+  * _Next War: Flashpoints_ (Mitchell Land)
 * Přednášky/panelová diskuze s hosty (bude upřesněno).
 
 **Pravidla pro volné hraní:**
