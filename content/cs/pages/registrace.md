@@ -7,12 +7,11 @@ toc: true
 
 # _Czech Consim Con 2025_
 
-⏳ ⏳ ⏳  **Registrace na C3 budou spuštěny 1. června 2025.** ⏳ ⏳ ⏳
-
 ## Informace k registraci
 
 * **Registrace je platná po zaplacení vstupného.**
 * Cena registrace (vstupné) je **900 Kč**.
+* Platební údaje vám budou zaslány emailem po vyplnění registračního formuláře (viz níže).
 * Registrace budou uzavřeny naplněním kapacity (60 účastníků).
 * Registrační poplatek je nevratný. Pokud se nebudete moci zúčastnit
   z jakéhokoli důvodu, je potřeba za sebe najít náhradu a tuto změnu
@@ -20,7 +19,7 @@ toc: true
 
 ## Odkaz na registrační formulář
 
-* ⏳ ⏳ ⏳  TBD  ⏳ ⏳ ⏳
+* [Registrační formulář](https://forms.gle/DGkSsqxXue9CmB4S7)
  
 
 ## Co se bude dít po registraci?
