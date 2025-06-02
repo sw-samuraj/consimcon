@@ -43,7 +43,7 @@ toc: true
 
 ## Entry fee
 
-* **36 €** for the entire weekend.
+* **38 €** for the entire weekend.
 
 ## Capacity
 

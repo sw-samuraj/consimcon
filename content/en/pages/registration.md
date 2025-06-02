@@ -10,7 +10,7 @@ toc: true
 ## Registration information
 
 * **Registration is valid after paying the entrance fee.**
-* The registration fee is **36 €**.
+* The registration fee is **38 €**.
 * Payment details will be sent to you by email after completing the registration form (see below).
 * Registrations will be closed when capacity is reached (60 participants).
 * The registration fee is non-refundable. If you are unable to attend
