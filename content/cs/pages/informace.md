@@ -25,17 +25,20 @@ toc: true
 ## Program
 
 * Volné hraní historických a válečných her.
-* Playtesting (bude dále upřesněno):
-  * [Žižka](//boardgamegeek.com/boardgame/399887/zizka-reformation-and-crusade-in-hussite-bohemia-1) (Petr Mojžíš)
-  * _Next War: Flashpoints_ (Mitchell Land)
-  * _Men of Iron_ ([Purgatorio](//boardgamegeek.com/boardgame/423938/purgatorio-men-of-iron-volume-vi) and/or [Ermine](//boardgamegeek.com/boardgame/435493/ermine-battles-in-the-war-of-the-breton-succession) (Ralph Shelton)
+* Playtesting (viz níže):
 * Přednášky/panelová diskuze s hosty (bude upřesněno).
 
-**Pravidla pro volné hraní:**
+### _Pravidla pro volné hraní_
 
 * Hry si účastníci donesou sami.
 * Pravidla se všichni naučí dopředu.
 * Plánování stolů bude probíhat na discordu C3.
+
+### _Playtesting_
+
+* [Žižka](//boardgamegeek.com/boardgame/399887/zizka-reformation-and-crusade-in-hussite-bohemia-1) (Petr Mojžíš)
+* _Next War: Flashpoints_ (Mitchell Land)
+* _Men of Iron_ ([Purgatorio](//boardgamegeek.com/boardgame/423938/purgatorio-men-of-iron-volume-vi) and/or [Ermine](//boardgamegeek.com/boardgame/435493/ermine-battles-in-the-war-of-the-breton-succession) (Ralph Shelton)
 
 ## Hosté
 
