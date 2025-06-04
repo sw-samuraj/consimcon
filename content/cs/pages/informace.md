@@ -28,6 +28,7 @@ toc: true
 * Playtesting (bude dále upřesněno):
   * [Žižka](//boardgamegeek.com/boardgame/399887/zizka-reformation-and-crusade-in-hussite-bohemia-1) (Petr Mojžíš)
   * _Next War: Flashpoints_ (Mitchell Land)
+  * _Men of Iron_ ([Purgatorio](//boardgamegeek.com/boardgame/423938/purgatorio-men-of-iron-volume-vi) and/or [Ermine](//boardgamegeek.com/boardgame/435493/ermine-battles-in-the-war-of-the-breton-succession) (Ralph Shelton)
 * Přednášky/panelová diskuze s hosty (bude upřesněno).
 
 **Pravidla pro volné hraní:**
