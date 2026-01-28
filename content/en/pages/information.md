@@ -1,15 +1,15 @@
 ---
 title: "Information"
-description: "Information about Czech Consim Con 2025"
+description: "Information about Czech Consim Con 2026"
 image: "/img/C3-logo.png"
 toc: true
 ---
 
-# _Czech Consim Con 2025_
+# _Czech Consim Con 2026_
 
 ## Date
 
-* **October 17-19, 2025**
+* **September 18-20, 2026**
 * Every day 9:00-21:30
 
 ## Venue
@@ -37,13 +37,15 @@ toc: true
 ### _Playtestinig_
 
 * [Žižka](//boardgamegeek.com/boardgame/399887/zizka-reformation-and-crusade-in-hussite-bohemia-1) (Petr Mojžíš)
-* _Next War: Flashpoints_ (Mitchell Land)
-* _Men of Iron_ ([Purgatorio](//boardgamegeek.com/boardgame/423938/purgatorio-men-of-iron-volume-vi) and/or [Ermine](//boardgamegeek.com/boardgame/435493/ermine-battles-in-the-war-of-the-breton-succession) (Ralph Shelton)
+* _Ye Warriors of God_ (Petr Mojžíš)
+* [Koniggratz '66](//www.gmtgames.com/p-1166-koniggratz-66.aspx) (Mark Simonitch/Michal Pinka)
+* _???_ (Mike Denson)
+* _???_ (Jerry White)
 
 ## Guests
 
-* **Mitchell Land** (GMT), [BGG profile](//boardgamegeek.com/boardgamedesigner/36545/mitchell-land)
-* **Ralph Shelton** (GMT), [BGG profile](//boardgamegeek.com/boardgamedesigner/103902/ralph-shelton)
+* **Mike Denson** (GMT), [BGG profil](//boardgamegeek.com/boardgamedesigner/92697/mike-denson)
+* **Jerry White** (GMT), [BGG profil](//boardgamegeek.com/boardgamedesigner/44467/jeremy-white)
 
 ## Entry fee
 

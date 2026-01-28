@@ -9,7 +9,7 @@ toc: true
 
 ## Spuštění registrací
 
-* Registrace budou spuštěny dne 20. března 2026.
+* **Registrace budou spuštěny dne _20. března 2026_.**
 
 ## Informace k registraci
 

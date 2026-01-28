@@ -1,11 +1,15 @@
 ---
 title: "Registration"
-description: "Czech Consim Con 2025 Registraton"
+description: "Czech Consim Con 2026 Registraton"
 image: "/img/C3-logo.png"
 toc: true
 ---
 
-# _Czech Consim Con 2025_
+# _Czech Consim Con 2026_
+
+## Registration launch
+
+* **Registrations will open on _March 20, 2026_.**
 
 ## Registration information
 
@@ -18,7 +22,8 @@ toc: true
 
 ## Link to the registration form
 
-* [Registration form](https://forms.gle/DGkSsqxXue9CmB4S7)
+* Will be available on the day registration opens.
+<!-- * [Registration form](https://forms.gle/DGkSsqxXue9CmB4S7) -->
 
 ## What will happen after registration?
 
