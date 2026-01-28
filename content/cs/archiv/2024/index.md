@@ -13,6 +13,9 @@ toc: true
 ## Místo konání
 
 * **Tvůrčí dům Elisky Peškové** (Peškovka)
+  Elišky Peškové 333/7,
+  Smíchov - Praha 5
+* [Google Maps](//maps.app.goo.gl/c1FuPaTr4JWczgee7)
 
 ![Peškovka](/img/Peskovka.jpg)
 

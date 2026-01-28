@@ -96,7 +96,7 @@ theme = "hugo-blog-awesome"
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Czech Consim Con"
   name = "Czech Consim Con"
-  description = "Czech Consim Con (C3) je konference historických a válečných her. Druhý ročník proběhne ve dnech 17.-19. října 2025."
+  description = "Czech Consim Con (C3) je konference historických a válečných her. Třetí ročník proběhne ve dnech 18.-20. září 2026."
 
 # Allow to override webmanifest options
 [Languages.cs.params.webmanifest]
@@ -166,7 +166,7 @@ theme = "hugo-blog-awesome"
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Czech Consim Con"
   name = "Czech Consim Con"
-  description = "Czech Consim Con (C3) is a convention of historical and war games. The second year will take place on October 17-19, 2025."
+  description = "Czech Consim Con (C3) is a convention of historical and war games. The third year will take place on September 18-20, 2026."
 
 # Allow to override webmanifest options
 [Languages.en.params.webmanifest]

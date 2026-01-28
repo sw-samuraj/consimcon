@@ -1,11 +1,15 @@
 ---
 title: "Registrace"
-description: "Registrace na Czech Consim Con 2025"
+description: "Registrace na Czech Consim Con 2026"
 image: "/img/C3-logo.png"
 toc: true
 ---
 
-# _Czech Consim Con 2025_
+# _Czech Consim Con 2026_
+
+## Spuštění registrací
+
+* Registrace budou spuštěny dne 20. března 2026.
 
 ## Informace k registraci
 
@@ -19,7 +23,8 @@ toc: true
 
 ## Odkaz na registrační formulář
 
-* [Registrační formulář](https://forms.gle/DGkSsqxXue9CmB4S7)
+* Bude k dispozici dnem spuštení registrací.
+<!-- * [Registrační formulář](https://forms.gle/DGkSsqxXue9CmB4S7) -->
  
 
 ## Co se bude dít po registraci?
