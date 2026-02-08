@@ -1,5 +1,5 @@
 ---
-title: "Czech Consim Con 2015"
+title: "Czech Consim Con 2025"
 date: "2025-10-17T10:00:00+02:00"
 description: "Information about Czech Consim Con 2025"
 image: "/img/C3-logo.png"
