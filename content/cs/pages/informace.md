@@ -36,15 +36,13 @@ toc: true
 
 ### _Playtesting_
 
-* [Žižka](//boardgamegeek.com/boardgame/399887/zizka-reformation-and-crusade-in-hussite-bohemia-1) (Petr Mojžíš)
-* _Ye Warriors of God_ (Petr Mojžíš)
+* _Ye Warriors of God_ ([Petr Mojžíš](())
 * [Koniggratz '66](//www.gmtgames.com/p-1166-koniggratz-66.aspx) (Mark Simonitch/Michal Pinka)
-* _???_ (Mike Denson)
 * _???_ (Jerry White)
 
 ## Hosté
 
-* **Mike Denson** (GMT), [BGG profil](//boardgamegeek.com/boardgamedesigner/92697/mike-denson)
+<!-- * **Mike Denson** (GMT), [BGG profil](//boardgamegeek.com/boardgamedesigner/92697/mike-denson) -->
 * **Jerry White** (GMT), [BGG profil](//boardgamegeek.com/boardgamedesigner/44467/jeremy-white)
 
 ## Vstupné

@@ -186,3 +186,8 @@ theme = "hugo-blog-awesome"
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/sw-samuraj/consimcon"
+
+[params]
+  [params.author]
+    name = "Your Name"
+    email = "your@email.com"
