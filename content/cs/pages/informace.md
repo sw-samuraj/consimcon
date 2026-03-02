@@ -36,9 +36,9 @@ toc: true
 
 ### _Playtesting_
 
-* _Ye Warriors of God_ ([Petr Mojžíš](())
+* _Ye Warriors of God_ ([Petr Mojžíš](//boardgamegeek.com/boardgamedesigner/140352/petr-mojzis))
 * [Koniggratz '66](//www.gmtgames.com/p-1166-koniggratz-66.aspx) (Mark Simonitch/Michal Pinka)
-* _???_ (Jerry White)
+* _???_ ([Jerry White](//boardgamegeek.com/boardgamedesigner/44467/jeremy-white))
 
 ## Hosté
 
