@@ -44,6 +44,7 @@ toc: true
 
 <!-- * **Mike Denson** (GMT), [BGG profil](//boardgamegeek.com/boardgamedesigner/92697/mike-denson) -->
 * **Jerry White** (GMT), [BGG profil](//boardgamegeek.com/boardgamedesigner/44467/jeremy-white)
+* **Brian Train** (GMT et al.), [BGG profil](//boardgamegeek.com/boardgamedesigner/1678/brian-train)
 
 ## Vstupné
 
